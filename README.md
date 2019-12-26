@@ -1,15 +1,14 @@
 # Continuous Control with PPO
 
----
-
 This notebook will present a flexible and simple implementation of the PPO reinforcement learning algorithm to solve the Reacher environment provided by [Unity Technologies ML Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher).
 
 Part of the code has been inspired and tested against the PPO implementation from [Ilya Kostrikov](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail/tree/master/a2c_ppo_acktr).
 
+<div style="text-align:center">
 Untrained Agent        | Trained Agent
 :---------------------:|:-----------------------:
 ![](img/Ep1Agent.gif)  | ![](img/Ep1000Agent.gif)
-
+</div>
 
 ### The environment
 
